@@ -17,11 +17,20 @@
     <option name="firstShow" value="false" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://C:/Game/UE_5.5/Engine/Plugins/Runtime/GameplayAbilities/Source/GameplayAbilities/Public/Abilities/Async/AbilityAsync_WaitAttributeChanged.h" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://C:/Game/UE_5.5/Engine/Source/Runtime/AIModule/Private/AIController.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://C:/Game/UE_5.5/Engine/Source/Runtime/CoreUObject/Public/UObject/CoreNetTypes.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://C:/Game/UE_5.5/Engine/Source/Runtime/CoreUObject/Public/UObject/Object.h" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://C:/Game/UE_5.5/Engine/Source/Runtime/Engine/Classes/Animation/AnimInstance.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://C:/Game/UE_5.5/Engine/Source/Runtime/Engine/Private/Controller.cpp" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Source/Warlock/Private/Animations/WarlockAnimInstance.cpp" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Source/Warlock/Private/Animations/WarlockAnimInstance.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Source/Warlock/Private/GAS/WarlockAttributeSet.cpp" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Source/Warlock/Private/Player/WarlockPlayerCharacter.cpp" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Source/Warlock/Private/Player/WarlockPlayerCharacter.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Source/Warlock/Private/Widgets/ValueGauge.cpp" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Source/Warlock/Warlock.Build.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
@@ -142,6 +151,17 @@
       <workItem from="1751641517026" duration="683000" />
       <workItem from="1751693160869" duration="574000" />
       <workItem from="1751693821057" duration="5151000" />
+      <workItem from="1751796751244" duration="214000" />
+      <workItem from="1751800811785" duration="108000" />
+      <workItem from="1751853579999" duration="8894000" />
+      <workItem from="1751951563291" duration="1010000" />
+      <workItem from="1751952653498" duration="10274000" />
+      <workItem from="1751976193614" duration="149000" />
+      <workItem from="1751976391457" duration="593000" />
+      <workItem from="1751977014296" duration="117000" />
+      <workItem from="1751977670846" duration="116000" />
+      <workItem from="1751977846817" duration="4222000" />
+      <workItem from="1752021272583" duration="3919000" />
     </task>
     <servers />
   </component>
